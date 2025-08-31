@@ -1,0 +1,15 @@
+# данные
+data/
+*.csv
+
+# ноутбуки
+.ipynb_checkpoints/
+
+# питон
+__pycache__/
+*.pkl
+*.pyc
+
+# виртуальное окружение
+venv/
+.env
