@@ -22,12 +22,14 @@
 3. **Модели** — Logistic Regression, Random Forest, XGBoost, CatBoost.
 4. **Интерпретация** — SHAP, Feature Importance, визуализации.
 
-## Как запустить
+# Как запустить
 1. Клонировать репозиторий:
    ```bash
    git clone https://github.com/username/titanic-ml-project.git
    cd titanic-ml-project
 2. Установить зависимости:
+   ```bash
    pip install -r requirements.txt
 3. Запустить ноутбук:
+   ```bash
    jupyter notebook notebooks/01_eda.ipynb
